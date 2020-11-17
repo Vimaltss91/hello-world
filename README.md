@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project by vimal webhook
+Simple Maven Project by vimal
