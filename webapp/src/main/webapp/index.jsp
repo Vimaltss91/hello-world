@@ -1,2 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a TOMCAT jenkin< done/h2>
+<h1> Hello, vimal <h1>
